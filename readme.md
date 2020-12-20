@@ -9,8 +9,9 @@
 > __Objectives__
 > 1. Review the Azure Portal
 > 2. Review the Dashboard
-
-![image](https://user-images.githubusercontent.com/8760590/102720099-771c8580-42af-11eb-873c-0a3f1fed0826.png)
+<div>
+<img src="https://user-images.githubusercontent.com/8760590/102720099-771c8580-42af-11eb-873c-0a3f1fed0826.png" width="400" height="200"/>
+</div>
 ----
 
 ### Azurem Command Line Interface (CLI)
