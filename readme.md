@@ -18,6 +18,6 @@
 ![image](https://user-images.githubusercontent.com/8760590/102720378-29088180-42b1-11eb-8b79-7a6c52d7b419.png)
 ----
 
-> REFERENCE: 
-__Download__ <small>![Install Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)</small>
-__CLI Documentation__ <small>![CLI Documentation](https://docs.microsoft.com/en-us/cli/azure/)</small>
+> REFERENCE:
+ __Download__ <small>[Install Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)</small>
+ __CLI Documentation__ <small>[CLI Documentation](https://docs.microsoft.com/en-us/cli/azure/)</small>
