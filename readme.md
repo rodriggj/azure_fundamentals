@@ -4,8 +4,20 @@
 ## Azure Certifications
 - AZ 900 - Azure Fundamentals
 
-### Lab 
+### Lab - Familiarize yourself with the Azure Portal 
 - Accessing and Using the Azure Portal
 > __Objectives__
 > 1. Review the Azure Portal
 > 2. Review the Dashboard
+
+![image](https://user-images.githubusercontent.com/8760590/102720099-771c8580-42af-11eb-873c-0a3f1fed0826.png)
+----
+
+### Azurem Command Line Interface (CLI)
+- Why might you use the CLI? 
+![image](https://user-images.githubusercontent.com/8760590/102720378-29088180-42b1-11eb-8b79-7a6c52d7b419.png)
+----
+
+> REFERENCE: 
+> __Download__ <small>![Install Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)</small>
+> __CLI Documentation__ <small>![CLI Documentation](https://docs.microsoft.com/en-us/cli/azure/)</small>
