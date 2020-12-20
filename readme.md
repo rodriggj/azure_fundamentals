@@ -20,3 +20,7 @@
 
 + <small>[Install Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)</small>
 + <small>[CLI Documentation](https://docs.microsoft.com/en-us/cli/azure/)</small>
+
+- Powershell
+![image](https://user-images.githubusercontent.com/8760590/102721202-9ec31c00-42b6-11eb-9faf-9d6f2760c07e.png)
+----
