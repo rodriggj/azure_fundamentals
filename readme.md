@@ -19,5 +19,6 @@
 ----
 
 > REFERENCE:
+
 -<small>[Install Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)</small>
 -<small>[CLI Documentation](https://docs.microsoft.com/en-us/cli/azure/)</small>
