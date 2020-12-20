@@ -1,5 +1,5 @@
 # Azure Fundamentals
-<small>![Azure Portal](https://portal.azure.com/#home)</small>
+<small>[Azure Portal](https://portal.azure.com/#home)</small>
 
 ## Azure Certifications
 - AZ 900 - Azure Fundamentals
