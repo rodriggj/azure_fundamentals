@@ -32,7 +32,15 @@
 
 ### Lab - Azure & Powershell CLI
 
+Objectives for this lab... 
+
+<div>
+<img src="https://user-images.githubusercontent.com/8760590/102721695-b64fd400-42b9-11eb-87e5-13b066343f6d.png" width="300" height="250"/>
+</div>
+---- 
+
+We will use the following commands ...
 <div>
 <img src="https://user-images.githubusercontent.com/8760590/102721421-f4e48f00-42b7-11eb-8001-31c34d381949.png" width="300" height="250"/>
 </div>
-
+----
