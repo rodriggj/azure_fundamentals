@@ -33,6 +33,6 @@
 ### Lab - Azure & Powershell CLI
 
 <div>
-<img src="![image](https://user-images.githubusercontent.com/8760590/102721421-f4e48f00-42b7-11eb-8001-31c34d381949.png)" width="300" height="250"/>
+<img src="https://user-images.githubusercontent.com/8760590/102721421-f4e48f00-42b7-11eb-8001-31c34d381949.png" width="300" height="250"/>
 </div>
 
