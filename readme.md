@@ -15,7 +15,9 @@
 
 ### Azurem Command Line Interface (CLI)
 - Why might you use the CLI? 
-![image](https://user-images.githubusercontent.com/8760590/102720378-29088180-42b1-11eb-8b79-7a6c52d7b419.png)
+<div>
+<img src="https://user-images.githubusercontent.com/8760590/102720378-29088180-42b1-11eb-8b79-7a6c52d7b419.png" width="400" height="300"/>
+</div>
 ----
 
 + <small>[Install Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)</small>
