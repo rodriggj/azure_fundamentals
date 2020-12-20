@@ -35,7 +35,7 @@
 Objectives for this lab... 
 
 <div>
-<img src="https://user-images.githubusercontent.com/8760590/102721695-b64fd400-42b9-11eb-87e5-13b066343f6d.png" width="400" height="300"/>
+<img src="https://user-images.githubusercontent.com/8760590/102721695-b64fd400-42b9-11eb-87e5-13b066343f6d.png" width="450" height="350"/>
 </div>
 ---- 
 
